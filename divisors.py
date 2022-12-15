@@ -1,6 +1,6 @@
 PickaNumber = int(input('Pick a number:'))
 # print(PickaNumber)
-# print(type(PickaNumber))
+
 x=range(1,PickaNumber)
 answers=[]
 for num in x:
